@@ -1,0 +1,7 @@
+{
+	"id": "show_massage_time",
+	"version": "1.0.0",
+	"name": "聊天信息时间显示",
+	"description": "两条消息间隔超过一分钟时，显示聊天栏消息的发送时间",
+	"author": "jokerben-cn"
+}
